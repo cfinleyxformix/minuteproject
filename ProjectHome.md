@@ -1,0 +1,1 @@
+MinuteProject (currently hosted on sourceforge) is a reverse engineering tool that generates Backend and Web applications on top of a DB structure.
